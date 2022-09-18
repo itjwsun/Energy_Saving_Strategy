@@ -1,1 +1,1 @@
-# Energy_Saving_Strategy
+# The implement of a new energy-saving strategy
